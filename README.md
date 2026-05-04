@@ -1,2 +1,2 @@
-# pubg
-macro no-recoil + fast loot
+# macro pubg
+no-recoil + fast loot
